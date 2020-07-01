@@ -10206,7 +10206,7 @@ h3 {
 
 .floating-label-form-group {
   position: relative;
-  border-bottom: 1px solid darkgrey; /*#e9ecef*/
+  /*border-bottom: 1px solid darkgrey;*/ /*#e9ecef*/
 }
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -10214,11 +10214,11 @@ h3 {
   position: relative;
   z-index: 1;
   padding-right: 0;
-  padding-left: 0;
+  /*padding-left: 0;*/
   resize: none;
-  border: none;
-  border-radius: 0;
-  background: none;
+  /*border: none;*/
+  /*border-radius: 0;*/
+  /*background: none;*/
   box-shadow: none !important;
 }
 .floating-label-form-group label {
