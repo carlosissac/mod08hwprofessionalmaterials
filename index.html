@@ -42,7 +42,7 @@
         <header class="masthead bg-secondary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/gatito.jpg" alt="kitten"/>
+                <img id="main-img" class="masthead-avatar mb-5" src="assets/img/gatito.jpg" alt="kitten"/>
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Issac's Side Projects</h1>
                 <!-- Icon Divider-->
@@ -222,7 +222,6 @@
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
                         <form id="contactForm" name="sentMessage" novalidate="novalidate" action="https://formspree.io/xzbjangd" method="POST">
-                            <input type="hidden" name="_next" value="https://carlosissac.github.io/mod08professionalmaterials/"/>
                             <div class="control-group">
                                 <div class="form-group floating-label-form-group controls mb-0 pb-2">
                                     <label style="color: white;">Name</label>
@@ -254,8 +253,7 @@
                             <br />
                             <div id="success"></div>
                             <div class="form-group">
-                                <input class="btn btn-primary btn-xl" id="sendMessageButton" type="submit"></input>
-                                <input type="hidden" name="_next" value="//carlosissac.github.io/mod08professionalmaterials/" />
+                                <button class="btn btn-primary btn-xl" id="sendMessageButton" type="submit" value="Send">Send</button>
                             </div>
                         </form>
                     </div>
