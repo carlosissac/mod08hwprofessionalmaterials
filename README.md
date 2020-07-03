@@ -13,11 +13,11 @@ Portfolio page in order to showcase new skills and abilities accquired thorughou
   - HW03 > Password Generator
 
 * Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
-- Projects are pinned in GitHub
+  - Projects are pinned in GitHub
 
 * Updated resume.
 * Updated LinkedIn profile
-- Resume and linkedin has been updated with new skills. 
+  - Resume and linkedin has been updated with new skills. 
 
 ## 2.Portfolio Site
 
