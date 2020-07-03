@@ -5,19 +5,19 @@ Portfolio page in order to showcase new skills and abilities accquired thorughou
 ## 1.Requirements
 
 * Updated portfolio featuring project 1 and two exemplary homework assignments.
-  ---- Page has the following apps referenced
-  ----- Project 1 > Contact My Reps
-  ----- HW06 > Weather App 
-  ----- HW05 > Day Planner 
-  ----- HW04 > Code Quiz 
-  ----- HW03 > Password Generator
+  - Page has the following apps referenced
+  - Project 1 > Contact My Reps
+  - HW06 > Weather App 
+  - HW05 > Day Planner 
+  - HW04 > Code Quiz 
+  - HW03 > Password Generator
 
 * Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
----- Projects are pinned in GitHub
+- Projects are pinned in GitHub
 
 * Updated resume.
 * Updated LinkedIn profile
----- Resume and linkedin has been updated with new skills. 
+- Resume and linkedin has been updated with new skills. 
 
 ## 2.Portfolio Site
 
@@ -32,6 +32,8 @@ Portfolio page in order to showcase new skills and abilities accquired thorughou
 ## 4.Updated Resume & Updated LinkedIn Profile 
 
 * Tweaked current resume and profile with new skills.
+
+## 5. App ScreenShot 
 
 ![picture alt](./assets/img/screenshot.jpg "index.HTML")
 
