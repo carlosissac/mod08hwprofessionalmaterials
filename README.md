@@ -21,7 +21,7 @@ Portfolio page in order to showcase new skills and abilities accquired thorughou
 
 ## 2.Portfolio Site
 
-* Portfolio uses Formspree.io (https://formspree.io/) in order to integrate a contact email form. We are currently using the free version. Free version doesnt allow for custom redirect after email is sent.
+* Portfolio uses Formspree.io (https://formspree.io/) in order to integrate a contact email form. We are currently using the free version. Free version doesnt allow for custom redirect after email is sent, hence it redirects to https://carlosissac.github.io/ which displays a 404. If we had the payed version we would redirect to https://carlosissac.github.io/mod08professionalmaterials/
 
 * Weather App is still being worked on, we will finish that project soon.
 
